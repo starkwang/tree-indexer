@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/starkwang/tree-indexer#readme",
   "devDependencies": {
-    "jest": "^19.0.2"
+    "babel-jest": "^19.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^19.0.2",
+    "regenerator-runtime": "^0.10.3"
   }
 }
