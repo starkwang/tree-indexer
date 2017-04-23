@@ -1,0 +1,26 @@
+{
+  "name": "tree-indexer",
+  "version": "1.0.0",
+  "description": "An indexer for common JSON/Javascript tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starkwang/tree-indexer.git"
+  },
+  "keywords": [
+    "index",
+    "tree"
+  ],
+  "author": "starkwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starkwang/tree-indexer/issues"
+  },
+  "homepage": "https://github.com/starkwang/tree-indexer#readme",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
