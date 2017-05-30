@@ -4,7 +4,7 @@
   "description": "An indexer for common JSON/Javascript tree",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest tests/index.test.js"
   },
   "repository": {
     "type": "git",
